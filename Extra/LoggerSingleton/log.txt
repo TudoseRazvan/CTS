@@ -1,0 +1,4 @@
+Mesaj de log 1
+Mesaj de log 2
+Mesaj de log 3
+Mesaj de log 4
