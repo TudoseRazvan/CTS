@@ -7,7 +7,7 @@ public class PachetCalatorie {
     private boolean hasAC;
     private boolean hasTV;
 
-    public PachetCalatorie(PachetCalatorieBuilder builder) {
+    private PachetCalatorie(PachetCalatorieBuilder builder) {
         this.hasWifi = builder.hasWifi;
         this.hasAnimale = builder.hasAnimale;
         this.isFumator = builder.isFumator;
