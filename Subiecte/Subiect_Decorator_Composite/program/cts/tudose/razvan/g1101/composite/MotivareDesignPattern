@@ -1,0 +1,3 @@
+Am ales design pattern-ul Composite pentru ca ofera o structura ierarhica unificata
+in care categoriile si produsele frunza pot fi tratate uniform, permitand agregarea
+si afisarea recursiva a elementelor.
